@@ -1,0 +1,8 @@
+C:\Users\aisha_ppxjc2l\source\repos\BinaryTreeUsingArray\bin\Debug\BinaryTreeUsingArray.exe.config
+C:\Users\aisha_ppxjc2l\source\repos\BinaryTreeUsingArray\bin\Debug\BinaryTreeUsingArray.exe
+C:\Users\aisha_ppxjc2l\source\repos\BinaryTreeUsingArray\bin\Debug\BinaryTreeUsingArray.pdb
+C:\Users\aisha_ppxjc2l\source\repos\BinaryTreeUsingArray\obj\Debug\BinaryTreeUsingArray.csproj.AssemblyReference.cache
+C:\Users\aisha_ppxjc2l\source\repos\BinaryTreeUsingArray\obj\Debug\BinaryTreeUsingArray.csproj.CoreCompileInputs.cache
+C:\Users\aisha_ppxjc2l\source\repos\BinaryTreeUsingArray\obj\Debug\BinaryTreeUsingArray.exe
+C:\Users\aisha_ppxjc2l\source\repos\BinaryTreeUsingArray\obj\Debug\BinaryTreeUsingArray.pdb
+C:\Users\aisha_ppxjc2l\source\repos\BinaryTreeUsingArray\obj\Debug\BinaryTreeUsingArray.exe.config
